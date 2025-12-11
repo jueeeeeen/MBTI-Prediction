@@ -8,12 +8,13 @@ A web application that predicts a user’s MBTI personality type by comparing th
 
 ## Tech Stack
 - **Frontend:** React, TypeScript, Tailwind CSS  
-- **Backend:** Python
+- **Backend:** Python, FastAPI, Uvicorn
 
 ## Features
 - **MBTI Personality Test** – allows users to complete a personality questionnaire.
 - **Result Display** – shows the predicted MBTI type along with similarity scores for other types.
 - **MBTI Type Information** - provides additional details about each MBTI personality type.
+- **Theory Explanation** - provides additional details about the theory used in prediction.
 
 ## Installation
 1. Clone the repository  
